@@ -57,4 +57,4 @@ Remix: Remix IDE is a powerful open-source tool that helps you write Solidity co
   reached.
 
 # Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+Contributions, issues, and feature requests are welcome!
